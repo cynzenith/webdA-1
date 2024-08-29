@@ -1,0 +1,44 @@
+/* reset */
+* {
+    padding: 0;
+    margin: 0;
+    color: #333;
+    box-sizing: border-box;
+}
+a {
+    color: #333;
+    text-decoration: none;
+    display: block;
+}
+li {
+    list-style: none;
+}
+img {
+    vertical-align: top;
+}
+
+#wrap {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+#header {
+    width: 1200px;
+    height: 100px;
+    background-color: #c9c9c9;
+}
+#slider {
+    width: 1200px;
+    height: 300px;
+    background-color: #bbbbbb;
+}
+#contents {
+    width: 1200px;
+    height: 200px;
+    background-color: #abaaaa;
+}
+#footer {
+    width: 1200px;
+    height: 100px;
+    background-color: #9c9b9b;
+}
